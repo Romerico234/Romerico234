@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Romerico234/Romerico234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Romerico and I'm passionate about coding, learning, and building projects. Here's a bit about me 🚀:
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on:
+- **Towson Academic Pathway**: A MERN stack web app that simplifies academic planning for Towson University students by generating customizable, personalized degree plans.
+- **SecurEd Inc.**: Working on CLARK, CARD and Cyber Competencies which are platforms that provide high impact cybesecurity curricula.
+- 
+### 🌱 I’m currently learning:
+- Everything backend 😁
+- AWS
+- DevOps tools like Docker and CircleCI†is 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+- **Portfolio**: [romericodavidjr.site](http://www.romericodavidjr.site)
+- **Email**: [romedavid2@outlook.com](mailto:romedavid2@outlook.com)
+- **LinkedIn**: [linkedin.com/in/romerico-david](https://www.linkedin.com/in/romerico-david)
+- **GitHub**: [github.com/Romerico234](https://github.com/Romerico234)
+
+### 🛠️ Technical Skills:
+- **Programming**: TypeScript, JavaScript, Python Java, C++, Swift
+- **Frameworks & Tools**: React, Angular, Node.js, Express, MongoDB, Supertest, Jest, Tailwind CSS, Bootstrap 
