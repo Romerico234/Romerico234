@@ -3,8 +3,7 @@
 I'm Romerico and I'm passionate about coding, learning, and building projects. Here's a bit about me 🚀:
 
 ### 🔭 I’m currently working on:
-- **Towson Academic Pathway**: A MERN stack web app that simplifies academic planning for Towson University students by generating customizable, personalized degree plans.
-- **SecurEd Inc.**: Working on CLARK, CARD and Cyber Competencies which are platforms that provide high impact cybesecurity curricula.
+- **SecurEd Inc.**: Working on CLARK, CARD and Cyber Competencies which are platforms that provide high impact cybesecurity curricula
   
 ### 🌱 I’m currently learning:
 - Everything backend 
