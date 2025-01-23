@@ -14,7 +14,3 @@ I'm Romerico and I'm passionate about coding, learning, and building projects. H
 - **Portfolio**: [romericodavidjr.site](http://www.romericodavidjr.site)
 - **Email**: [romedavid2@outlook.com](mailto:romedavid2@outlook.com)
 - **LinkedIn**: [linkedin.com/in/romerico-david](https://www.linkedin.com/in/romerico-david)
-
-### 🛠️ Technical Skills:
-- **Programming**: TypeScript, JavaScript, Python Java, C++, Swift
-- **Frameworks & Tools**: React, Angular, Node.js, Express, MongoDB, Supertest, Jest, Tailwind CSS, Bootstrap 
