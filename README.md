@@ -8,7 +8,7 @@ I'm Romerico and I'm passionate about coding, learning, and building projects. H
 ### 🌱 I’m currently learning:
 - Everything backend 
 - AWS
-- DevOps tools like Docker and CircleCI
+- Github Actions + CircleCI
 
 ### 📫 How to reach me:
 - **Portfolio**: [romericodavidjr.site](http://www.romericodavidjr.site)
